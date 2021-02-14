@@ -1,0 +1,49 @@
+body{
+    background: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+nav{
+
+    text-align: center;
+    width:750px;
+    margin:0 auto;
+    background: white;
+
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: #EAEAEA;
+}
+.cards{
+    background-color: #EAEAEA;
+    padding-top: 50px;
+    padding-bottom: 25px;
+    margin-bottom: 25px;
+
+}
+.texto{
+    display: flex;
+    background: white;
+    padding-left: 10px;
+    padding-right: 10px;
+
+}
+.derecha{
+    font-weight: bold;
+}
+ 
+.izquierda{
+    margin-left: auto;
+    font-size: small;
+    color: gray;
+}
+.pie{
+    padding-left: 10px;
+    padding-right: 10px;
+   float: left;
+}
